@@ -8,12 +8,12 @@
 * https://www.facebook.com/egish.ambartsumyan/
 
 ## About me 👽
-Born 15.08.1992 , from Pyatigorsk,Russia. I want to learn coding because it seems to be interesting and I know nothing about it. I will try my best! Wish me good luck!
+Born 15.08.1992 , from Pyatigorsk,Russia. I want to learn coding and I know nothing about it. I will try my best! Wish me good luck! Also wish luck to my **group mate!** aka "odnogruppnik"
 
 ## Education 👨‍🎓
 * Pyatigorsk State University (Bachelor’s degree in Linguistics) (2010 - 2014)
 
-## Languages
+## Languages 🏆
 1. *Russian* **Native** speaker
 2. *English* **C1**
 3. *German* **B2**
