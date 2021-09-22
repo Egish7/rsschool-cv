@@ -1,0 +1,50 @@
+.name {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: gray;
+    margin: 90px;
+    font-size: 45px;
+    color: black;
+}
+.name-block {
+    width: 1293px;
+    height: 250px;
+    border: darkgrey solid 5px;
+    background-color: cornsilk;
+    position: absolute;
+    left: 300px;
+}
+.profile-picture {
+    border-radius: 50%;
+    position: absolute;
+    top:  45px;
+    left: 450px;
+
+    
+}
+.block-1 {
+    background-color: lemonchiffon;
+    width: 500px;
+    height: 1000px;
+    position: absolute;
+    top: 270px;
+    left: 300px;
+    font-size: 30px;
+    
+}
+
+.block-2 {
+    background-color: lavender;
+    width: 800px;
+    height: 1000px;
+    position: absolute;
+    top: 270px;
+    right: 300px;
+    font-size: 25px;
+    text-align: left;
+    
+}
+
+.block-2{
+    box-sizing: border-box;
+    padding: 20px;
+}
