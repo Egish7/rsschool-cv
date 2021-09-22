@@ -1,0 +1,61 @@
+.background-cv {
+    background-color: mintcream;
+}
+.name {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: gray;
+    font-size: 45px;
+    color: black;
+}
+.name-block {
+    margin: 0 auto;
+    width: 100%;
+    max-width: 1293px;
+    align-items: center;
+    display: flex;
+    height: 250px;
+    border: darkgrey solid 5px;
+    background-color: cornsilk;
+}
+.profile-picture {
+    border-radius: 50%;
+    margin: 0 50px;
+}
+.wrapper {
+    margin: 0 auto;
+    width: 100%;
+    max-width: 1293px;
+    display: flex;
+}
+.about {
+    background-color: lemonchiffon;
+    width: 500px;
+    height: 1000px;
+    font-size: 30px;
+    
+}
+
+.details {
+    background-color: lavender;
+    width: 800px;
+    height: 1000px;
+    font-size: 25px;
+    text-align: left;
+    box-sizing: border-box;
+    padding: 20px;
+    
+}
+.footer {
+    margin: 0 auto;
+    max-width: 1293px;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.app-birth {
+    color: rebeccapurple;
+    font-size: 30px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
